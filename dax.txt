@@ -1,0 +1,9 @@
+Total Revenue = SUM(sales)
+
+Total Profit = SUM(profit)
+
+Total Orders = COUNT(product)
+
+Avg Order Value = DIVIDE([Total Revenue],[Total Orders])
+
+Profit Margin = DIVIDE([Total Profit],[Total Revenue])
