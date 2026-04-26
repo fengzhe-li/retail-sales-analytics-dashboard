@@ -126,6 +126,22 @@ Includes:
 
 ---
 
+## Looker Studio Dashboard Preview
+
+### Page 1 – Executive Summary
+
+![Looker Dashboard Page 1](looker/dashboard_01_executive_summary_looker.png)
+
+### Page 2 – Deep Dive Analysis
+
+![Looker Dashboard Page 2](looker/dashboard_02_deep_dive_analysis_looker.png)
+
+### Full Dashboard Report (PDF)
+
+[Download Looker Dashboard PDF](looker/looker_dashboard.pdf)
+
+---
+
 ## Author
 
 Fengzhe Li
