@@ -116,11 +116,13 @@ Includes:
 
 ---
 
-## Dashboard Preview
+## Power BI Dashboard Preview
 
-(Add screenshots below after upload)
+### Page 1 – Executive Summary
 
 ![Dashboard Page 1](dashboard-page1.png)
+
+### Page 2 – Deep Dive Analysis
 
 ![Dashboard Page 2](dashboard-page2.png)
 
