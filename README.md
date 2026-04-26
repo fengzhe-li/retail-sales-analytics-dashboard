@@ -20,6 +20,7 @@ The project covers:
 - SQL Server
 - Microsoft SQL Server Management Studio (SSMS)
 - Power BI Desktop
+- Looker Studio
 - GitHub
 
 ---
